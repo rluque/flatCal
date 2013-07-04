@@ -1,6 +1,5 @@
 A flat design calendar icon made with pure CSS. Functionality brought by JavaScript.
 ======
-========
 
 Testing GitHub.
 
