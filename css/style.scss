@@ -1,0 +1,91 @@
+@import "compass/css3";
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,300);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+$color: #0191B0;
+$background: #0A5D8E;
+$white: #F0F5F8;
+
+body {
+  background: $background;
+}
+
+.container {
+  width: 200px;
+  height: 170px;
+  background: $color;
+  position:relative;
+  margin: auto;
+  top: 30px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#day {
+  position: relative;
+  top: 15px;
+  color: $white;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.daycontainer {
+  width: 160px;
+  height: 100px;
+  background: $white;
+  position: absolute;
+  top: 54px;
+  left: 20px;
+}
+
+#number {
+  position: relative;
+  top: -22px;
+  font-size: 110px;
+  font-weight: 700;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: $color;
+}
+
+.thing1 {
+  width: 10px;
+  height: 30px;
+  background: $color;
+  position: relative;
+  left: 30px;
+  bottom: 60px;
+  border-radius: 50px;
+  z-index: 1;
+}
+
+.thing2 {
+  width: 10px;
+  height: 30px;
+  background: $color;
+  position: relative;
+  left: 160px;
+  bottom: 90px;
+  border-radius: 50px;
+  z-index: 1;
+}
+
+.hole1 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background: $background;
+  position: relative;
+  left: 20px;
+  bottom: 110px;
+}
+
+.hole2 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background: $background;
+  position: relative;
+  left: 150px;
+  bottom: 140px;
+}
