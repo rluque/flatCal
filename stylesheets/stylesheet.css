@@ -352,6 +352,10 @@ footer a:hover {
     color: #444;
 }
 
+.gitRibbon:hover {
+    opacity: 0.8;
+}
+
 /* MISC */
 .clearfix:after {
     clear: both;
