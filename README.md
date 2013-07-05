@@ -1,4 +1,4 @@
-A flat design calendar icon made with pure CSS. Functionality brought by JavaScript.
+A flat design calendar icon made with pure CSS. Functionality brought to you by JavaScript.
 ======
 
 Testing GitHub.
