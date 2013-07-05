@@ -158,7 +158,7 @@ a.button span {
                                  url(../images/zip-icon_2x.png) 2x) 12px 50% no-repeat;
 }
 #view-on-github span {
-  background: transparent url(../images/octocat-icon-icon.png) 12px 50% no-repeat;
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
   background: -webkit-image-set( url(../images/octocat-icon.png) 1x,
                                  url(../images/octocat-icon_2x.png) 2x)  12px 50% no-repeat;
 }
